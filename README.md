@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 - 👋 I’m Tushar Sharma.
 - 📫 You can reach me through my [website](https://randomwits.com//).
