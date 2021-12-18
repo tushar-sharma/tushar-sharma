@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Tushar Sharma.
+- 👋 I’m Tushar Sharma.
 - 📫 You can reach me through my [website](https://randomwits.com//).
 
 <a target=_blank href="https://github.com/tushar-sharma">
