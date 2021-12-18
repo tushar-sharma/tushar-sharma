@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Tushar Sharma.
+- 📫 You can reach me through my [website](https://randomwits.com//).
+
+<a target=_blank href="https://github.com/tushar-sharma">
+  <img align="center" alt="Tushar Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tushar-sharma&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
+</a>
+<a target=_blank href="https://github.com/tushar-sharma">
+  <img align="center" alt="Tushar Sharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-sharma&theme=radical&layout=compact&hide=EJS&hide_border=true"/>
+</a>
+
 <!--
 **tushar-sharma/tushar-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
