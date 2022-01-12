@@ -3,6 +3,9 @@
 - 👋 I’m Tushar Sharma.
 - 📫 You can reach me through my [website](https://randomwits.com/).
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tushar-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="ankit404butfound" /> </p>
+
+
 <a target=_blank href="https://github.com/tushar-sharma">
   <img align="center" alt="Tushar Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tushar-sharma&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
 </a>
